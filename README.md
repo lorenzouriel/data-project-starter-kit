@@ -52,7 +52,7 @@ task run
 ### Arquitetura
 ![Arquitetura](/docs/static/fluxo.png)
 
-- Confira a documentação aqui:
+- Confira a documentação feita com o Mkdocs: https://lorenzouriel.github.io/etl-input-output-excel-files/
 
 ### Tecnologias e Bibliotecas
 - Python
@@ -113,7 +113,7 @@ task run
 
 ![Architecture](/docs/static/fluxo.png)
 
-- Check the documentation here:
+- Check out documentation made with mkdocs: https://lorenzouriel.github.io/etl-input-output-excel-files/
 
 ### Technologies and Libraries
 

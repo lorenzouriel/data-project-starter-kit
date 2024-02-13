@@ -1,4 +1,4 @@
-site_name: Seu Projeto
+site_name: ETL de Consolidação de Excel
 nav:
   - Home: index.md
   - API: api.md
@@ -6,3 +6,4 @@ plugins:
   - search
   - mkdocstrings:
       default_handler: python
+theme: dracula
