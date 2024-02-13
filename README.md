@@ -61,7 +61,7 @@ task run
 - Pandas
 - Faker
 - Mkdocs
-
+- pre-commit
 
 ---
 ---
@@ -125,3 +125,4 @@ task run
 - Pandas
 - Faker
 - Mkdocs
+- pre-commit
