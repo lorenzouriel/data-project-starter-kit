@@ -1,4 +1,4 @@
-# Data Project Starter Kit
+# Data Project End-to-End
 
 ### Instalação e Configuração
 
@@ -66,8 +66,6 @@ task run
 ---
 ---
 ---
-
-# Data Project Starter Kit
 
 ### Installation and Configuration
 
