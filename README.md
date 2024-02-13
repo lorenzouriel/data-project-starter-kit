@@ -52,7 +52,7 @@ task run
 ### Arquitetura
 ![Arquitetura](/docs/static/fluxo.png)
 
-- Confira a documentação aqui: 
+- Confira a documentação aqui:
 
 ### Tecnologias e Bibliotecas
 - Python
@@ -115,7 +115,7 @@ task run
 
 ![Architecture](/docs/static/fluxo.png)
 
-- Check the documentation here: 
+- Check the documentation here:
 
 ### Technologies and Libraries
 
